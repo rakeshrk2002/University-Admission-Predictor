@@ -1,8 +1,6 @@
 # IBM-Project-19316-1659696089 <br /> University Admit Eligibility Predictor <br />
 ### project web-link: [click here](http://ibmsmart.pythonanywhere.com/home) <br/>
-## Team ID: PNT2022TMID19821 <br /> Team Members: Gowtham D, Karthikeyan S, Mahesh J, Gokul kanna S, Ganeshan B
-
-# Abstract:
+## Team ID: PNT2022TMID19821 <br /> # Abstract:
 Students are often worried about their chances of admission to University.
 The aim of this project is to help students in shortlisting universities with their profiles.
 The predicted output gives them a fair idea about their admission chances to a particular university.
